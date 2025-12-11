@@ -12,4 +12,6 @@ produtos em um objeto estoque.
 
 
 
-
+Classe Estoque, esta classe é aquela que nos permite moldarmos o objeto estoque como atributo uma 
+lista de produtos, por enquanto, é possui métodos que nos permitem manipular os produtos, ou seja 
+o comportamento dos objetos. 
